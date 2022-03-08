@@ -7,6 +7,7 @@
 
         <!-- Bootstrap CSS -->
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+        <link rel="icon" href="{{ asset('icon/floatlabs.ico') }}">
 
         <title>WPU Blog | {{ $title }}</title>
     </head>
